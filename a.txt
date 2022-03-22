@@ -18,3 +18,8 @@ master
 new 
 >>>>>>> new
 gitttttttttttee
+1
+1
+1
+1
+
