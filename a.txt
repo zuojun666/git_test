@@ -12,4 +12,8 @@ hello git;
 hello git;
 2222222222
 8888888888
+<<<<<<< HEAD
 master
+=======
+new 
+>>>>>>> new
